@@ -22,7 +22,9 @@
   ],
   "author": "Bitfinex",
   "contributors": [
-    "Cris Mihalache <cris.m@bitfinex.com> (https://www.bitfinex.com)"
+    "Cris Mihalache <cris.m@bitfinex.com> (https://www.bitfinex.com)",
+    "Jacob Plaster <jacob.plaster@bitfinex.com> (https://www.bitfinex.com)",
+    "Paolo Ardoino <paolo@bitfinex.com> (https://www.bitfinex.com)"
   ],
   "license": "MIT",
   "bugs": {
