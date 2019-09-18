@@ -31,6 +31,7 @@
     "url": "https://github.com/bitfinexcom/bfx-api-node-plugin-example/issues"
   },
   "devDependencies": {
+    "babel-eslint": "^10.0.3",
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
     "standard": "^14.1.0"
