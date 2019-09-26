@@ -1,6 +1,6 @@
 {
   "name": "bfx-api-node-plugin-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example plugin for the Bitfinex Node API",
   "engines": {
     "node": ">=7"
@@ -20,22 +20,26 @@
     "bitcoin",
     "BTC"
   ],
+  "author": "Bitfinex",
   "contributors": [
-    "Cris Mihalache <cris.m@bitfinex.com> (https://www.bitfinex.com)"
+    "Cris Mihalache <cris.m@bitfinex.com> (https://www.bitfinex.com)",
+    "Jacob Plaster <jacob.plaster@bitfinex.com> (https://www.bitfinex.com)",
+    "Paolo Ardoino <paolo@bitfinex.com> (https://www.bitfinex.com)"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bitfinexcom/bfx-api-node-plugin-example/issues"
   },
   "devDependencies": {
-    "chai": "^3.4.1",
-    "mocha": "^3.4.2",
-    "standard": "^10.0.2"
+    "babel-eslint": "^10.0.3",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "standard": "^14.1.0"
   },
   "dependencies": {
-    "bfx-api-node-core": "^1.0.0",
-    "bluebird": "^3.5.1",
-    "debug": "^2.2.0",
-    "lodash": "^4.17.4"
+    "bfx-api-node-core": "git+http://github.com/bitfinexcom/bfx-api-node-core.git#semver:^1.1.0",
+    "bluebird": "^3.5.5",
+    "debug": "^4.1.1",
+    "lodash": "^4.17.15"
   }
 }
