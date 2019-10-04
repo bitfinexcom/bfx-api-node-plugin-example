@@ -1,6 +1,6 @@
 {
   "name": "bfx-api-node-plugin-example",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example plugin for the Bitfinex Node API",
   "engines": {
     "node": ">=7"
