@@ -25,8 +25,8 @@ m.openWS()
 
 ### Docs
 
-For a full list of supported events, see `lib/plugin.js`.
-For a brief executable example, see `examples/ws2_manager_usage.js`
+For a full list of supported events, [see `lib/plugin.js`](/lib/plugin.js).
+For a brief executable example, [see `examples/ws2_manager_usage.js`](/examples/ws2_manager_usage.js)
 
 For more information on plugin development, check the [node API wiki](https://github.com/bitfinexcom/bitfinex-api-node/wiki)
 
