@@ -2,8 +2,8 @@
 
 process.env.DEBUG = '*'
 
-const ExamplePlugin = require('../')
 const { subscribe, Manager } = require('bfx-api-node-core')
+const ExamplePlugin = require('../')
 
 const m = new Manager({
   plugins: [ExamplePlugin()]
